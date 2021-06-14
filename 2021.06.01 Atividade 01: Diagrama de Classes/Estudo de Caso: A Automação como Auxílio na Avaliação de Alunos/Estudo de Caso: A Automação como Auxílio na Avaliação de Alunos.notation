@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_eGDZsM1GEeu1UsTPdto-iA" type="PapyrusUMLClassDiagram" name="Diagrama de Classes" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_eGDZsc1GEeu1UsTPdto-iA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_eGDZss1GEeu1UsTPdto-iA"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_eGDZs81GEeu1UsTPdto-iA" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="ecore:EObject" href="estudo%20de%20caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_eD9H8M1GEeu1UsTPdto-iA"/>
+    </styles>
+    <element xmi:type="ecore:EObject" href="estudo%20de%20caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_eD9H8M1GEeu1UsTPdto-iA"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_sWYPQM1HEeunR7YlqZ17OQ" type="UseCase" name="DIagrama de Caso de Uso" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_yiJN8M1HEeunR7YlqZ17OQ" type="Actor_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_yiRw0M1HEeunR7YlqZ17OQ" type="Actor_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yiRw0c1HEeunR7YlqZ17OQ" y="15"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_yiSX4M1HEeunR7YlqZ17OQ" type="Actor_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yiSX4c1HEeunR7YlqZ17OQ" x="20" y="100"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_yiSX4s1HEeunR7YlqZ17OQ" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yiSX481HEeunR7YlqZ17OQ" x="20" y="80"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_yiSX5M1HEeunR7YlqZ17OQ" type="Actor_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yiSX5c1HEeunR7YlqZ17OQ" y="15"/>
+      </children>
+      <element xmi:type="uml:Actor" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_yh59YM1HEeunR7YlqZ17OQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yiJN8c1HEeunR7YlqZ17OQ" x="80" y="20"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4bC7AM1HEeunR7YlqZ17OQ" type="Actor_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4bDiEM1HEeunR7YlqZ17OQ" type="Actor_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4bDiEc1HEeunR7YlqZ17OQ" y="15"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4bEJIM1HEeunR7YlqZ17OQ" type="Actor_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4bEJIc1HEeunR7YlqZ17OQ" x="20" y="100"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4bEJIs1HEeunR7YlqZ17OQ" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4bEwMM1HEeunR7YlqZ17OQ" x="20" y="80"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4bEwMc1HEeunR7YlqZ17OQ" type="Actor_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4bEwMs1HEeunR7YlqZ17OQ" y="15"/>
+      </children>
+      <element xmi:type="uml:Actor" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_4a8NUM1HEeunR7YlqZ17OQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4bC7Ac1HEeunR7YlqZ17OQ" x="180" y="20"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_6CmusM1HEeunR7YlqZ17OQ" type="Actor_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_6CnVwM1HEeunR7YlqZ17OQ" type="Actor_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_6CnVwc1HEeunR7YlqZ17OQ" y="15"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_6CnVws1HEeunR7YlqZ17OQ" type="Actor_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_6CnVw81HEeunR7YlqZ17OQ" x="20" y="100"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_6CnVxM1HEeunR7YlqZ17OQ" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_6CnVxc1HEeunR7YlqZ17OQ" x="20" y="80"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_6CnVxs1HEeunR7YlqZ17OQ" type="Actor_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_6CnVx81HEeunR7YlqZ17OQ" y="15"/>
+      </children>
+      <element xmi:type="uml:Actor" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_6Ck5gM1HEeunR7YlqZ17OQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6Cmusc1HEeunR7YlqZ17OQ" x="120" y="200"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_sWYPQc1HEeunR7YlqZ17OQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_sWYPQs1HEeunR7YlqZ17OQ"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_sWYPQ81HEeunR7YlqZ17OQ" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+      <owner xmi:type="uml:Model" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_eD9H8M1GEeu1UsTPdto-iA"/>
+    </styles>
+    <element xmi:type="uml:Model" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_eD9H8M1GEeu1UsTPdto-iA"/>
+  </notation:Diagram>
+</xmi:XMI>
