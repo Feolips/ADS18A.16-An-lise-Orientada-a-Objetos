@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_bUVBUM04EeuVhePu_GuJyA" name="Estudo de Caso: Digitalização das">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_bV_1QM04EeuVhePu_GuJyA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_EcxZwM1DEeuVhePu_GuJyA" name="Professor"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_Fn5wIM1DEeuVhePu_GuJyA" name="Coordenador"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_ZX3ToM1DEeuVhePu_GuJyA" name="Usuário"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_bP7ogM1DEeuVhePu_GuJyA" name="Elaborar Questão"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_fxpgMM1DEeuVhePu_GuJyA" memberEnd="_fxr8cM1DEeuVhePu_GuJyA _fxsjgM1DEeuVhePu_GuJyA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_fxrVYM1DEeuVhePu_GuJyA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_fxrVYc1DEeuVhePu_GuJyA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_fxr8cM1DEeuVhePu_GuJyA" name="elaborar questão" type="_bP7ogM1DEeuVhePu_GuJyA" association="_fxpgMM1DEeuVhePu_GuJyA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_fxsjgM1DEeuVhePu_GuJyA" name="professor" type="_EcxZwM1DEeuVhePu_GuJyA" association="_fxpgMM1DEeuVhePu_GuJyA"/>
+  </packagedElement>
+</uml:Model>
