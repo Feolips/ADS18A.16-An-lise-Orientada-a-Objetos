@@ -23,7 +23,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_yiSX5c1HEeunR7YlqZ17OQ" y="15"/>
       </children>
       <element xmi:type="uml:Actor" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_yh59YM1HEeunR7YlqZ17OQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yiJN8c1HEeunR7YlqZ17OQ" x="40" y="20"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yiJN8c1HEeunR7YlqZ17OQ" x="80" y="20"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_4bC7AM1HEeunR7YlqZ17OQ" type="Actor_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_4bDiEM1HEeunR7YlqZ17OQ" type="Actor_NameLabel">
@@ -39,7 +39,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_4bEwMs1HEeunR7YlqZ17OQ" y="15"/>
       </children>
       <element xmi:type="uml:Actor" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_4a8NUM1HEeunR7YlqZ17OQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4bC7Ac1HEeunR7YlqZ17OQ" x="120" y="20"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4bC7Ac1HEeunR7YlqZ17OQ" x="180" y="20"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_6CmusM1HEeunR7YlqZ17OQ" type="Actor_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_6CnVwM1HEeunR7YlqZ17OQ" type="Actor_NameLabel">
@@ -55,33 +55,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_6CnVx81HEeunR7YlqZ17OQ" y="15"/>
       </children>
       <element xmi:type="uml:Actor" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_6Ck5gM1HEeunR7YlqZ17OQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6Cmusc1HEeunR7YlqZ17OQ" x="60" y="220"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_IIbH8M1KEeunR7YlqZ17OQ" type="UseCase_Shape">
-      <children xmi:type="notation:DecorationNode" xmi:id="_IIbvAM1KEeunR7YlqZ17OQ" type="UseCase_NameLabel"/>
-      <children xmi:type="notation:DecorationNode" xmi:id="_IIbvAc1KEeunR7YlqZ17OQ" type="UseCase_FloatingNameLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_IIbvAs1KEeunR7YlqZ17OQ" y="15"/>
-      </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_IIdkMM1KEeunR7YlqZ17OQ" type="UseCase_ExtensionPointCompartment">
-        <styles xmi:type="notation:SortingStyle" xmi:id="_IIdkMc1KEeunR7YlqZ17OQ"/>
-        <styles xmi:type="notation:FilteringStyle" xmi:id="_IIdkMs1KEeunR7YlqZ17OQ"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IIdkM81KEeunR7YlqZ17OQ"/>
-      </children>
-      <element xmi:type="uml:UseCase" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_IIZSwM1KEeunR7YlqZ17OQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IIbH8c1KEeunR7YlqZ17OQ" x="220" y="20"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_aPUb4M1KEeunR7YlqZ17OQ" type="UseCase_Shape">
-      <children xmi:type="notation:DecorationNode" xmi:id="_aPVC8M1KEeunR7YlqZ17OQ" type="UseCase_NameLabel"/>
-      <children xmi:type="notation:DecorationNode" xmi:id="_aPVqAM1KEeunR7YlqZ17OQ" type="UseCase_FloatingNameLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_aPVqAc1KEeunR7YlqZ17OQ" y="15"/>
-      </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_aPVqAs1KEeunR7YlqZ17OQ" type="UseCase_ExtensionPointCompartment">
-        <styles xmi:type="notation:SortingStyle" xmi:id="_aPVqA81KEeunR7YlqZ17OQ"/>
-        <styles xmi:type="notation:FilteringStyle" xmi:id="_aPVqBM1KEeunR7YlqZ17OQ"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aPVqBc1KEeunR7YlqZ17OQ"/>
-      </children>
-      <element xmi:type="uml:UseCase" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_aPQxgM1KEeunR7YlqZ17OQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aPUb4c1KEeunR7YlqZ17OQ" x="240" y="140"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6Cmusc1HEeunR7YlqZ17OQ" x="120" y="200"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_sWYPQc1HEeunR7YlqZ17OQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_sWYPQs1HEeunR7YlqZ17OQ"/>
@@ -89,25 +63,5 @@
       <owner xmi:type="uml:Model" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_eD9H8M1GEeu1UsTPdto-iA"/>
     </styles>
     <element xmi:type="uml:Model" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_eD9H8M1GEeu1UsTPdto-iA"/>
-    <edges xmi:type="notation:Connector" xmi:id="_EP0CMM1LEeunR7YlqZ17OQ" type="Generalization_Edge" source="_yiJN8M1HEeunR7YlqZ17OQ" target="_6CmusM1HEeunR7YlqZ17OQ">
-      <children xmi:type="notation:DecorationNode" xmi:id="_EP0pQM1LEeunR7YlqZ17OQ" type="Generalization_StereotypeLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_EP0pQc1LEeunR7YlqZ17OQ" y="-20"/>
-      </children>
-      <styles xmi:type="notation:FontStyle" xmi:id="_EP0CMc1LEeunR7YlqZ17OQ"/>
-      <element xmi:type="uml:Generalization" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_EPhHQM1LEeunR7YlqZ17OQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EP0CMs1LEeunR7YlqZ17OQ" points="[60, 20, -643984, -643984]$[80, 220, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EQafIM1LEeunR7YlqZ17OQ" id="(0.6666666666666666,0.0)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EQbGMM1LEeunR7YlqZ17OQ" id="(0.6666666666666666,0.0)"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_FWmrIM1LEeunR7YlqZ17OQ" type="Generalization_Edge" source="_4bC7AM1HEeunR7YlqZ17OQ" target="_6CmusM1HEeunR7YlqZ17OQ">
-      <children xmi:type="notation:DecorationNode" xmi:id="_FWmrI81LEeunR7YlqZ17OQ" type="Generalization_StereotypeLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_FWmrJM1LEeunR7YlqZ17OQ" y="-20"/>
-      </children>
-      <styles xmi:type="notation:FontStyle" xmi:id="_FWmrIc1LEeunR7YlqZ17OQ"/>
-      <element xmi:type="uml:Generalization" href="Estudo%20de%20Caso:%20A%20Automação%20como%20Auxílio%20na%20Avaliação%20de%20Alunos.uml#_FWbsAM1LEeunR7YlqZ17OQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FWmrIs1LEeunR7YlqZ17OQ" points="[120, 40, -643984, -643984]$[80, 220, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FW_FoM1LEeunR7YlqZ17OQ" id="(0.0,0.4)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FW_ssM1LEeunR7YlqZ17OQ" id="(0.6666666666666666,0.0)"/>
-    </edges>
   </notation:Diagram>
 </xmi:XMI>

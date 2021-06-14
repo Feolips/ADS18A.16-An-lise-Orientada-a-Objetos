@@ -3,7 +3,13 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_eJYagM1GEeu1UsTPdto-iA">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
-  <packagedElement xmi:type="uml:Actor" xmi:id="_yh59YM1HEeunR7YlqZ17OQ" name="Coordenador"/>
-  <packagedElement xmi:type="uml:Actor" xmi:id="_4a8NUM1HEeunR7YlqZ17OQ" name="Professor"/>
-  <packagedElement xmi:type="uml:Actor" xmi:id="_6Ck5gM1HEeunR7YlqZ17OQ" name="Actor4"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_yh59YM1HEeunR7YlqZ17OQ" name="Coordenador">
+    <generalization xmi:type="uml:Generalization" xmi:id="_EPhHQM1LEeunR7YlqZ17OQ" general="_6Ck5gM1HEeunR7YlqZ17OQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_4a8NUM1HEeunR7YlqZ17OQ" name="Professor">
+    <generalization xmi:type="uml:Generalization" xmi:id="_FWbsAM1LEeunR7YlqZ17OQ" general="_6Ck5gM1HEeunR7YlqZ17OQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_6Ck5gM1HEeunR7YlqZ17OQ" name="Usuário"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_IIZSwM1KEeunR7YlqZ17OQ" name="Elaborar Questões"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_aPQxgM1KEeunR7YlqZ17OQ" name="Elaborar Prova"/>
 </uml:Model>
